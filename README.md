@@ -5,3 +5,6 @@
 3. **Build Knowledge Graph**: Use NetworkX to construct a directed graph from the extracted entity pairs.  
 4. **Visualization and Analysis**: Visualize the Knowledge Graph to uncover entity interactions and analyze their frequency and relationships.  
 5. **Export**: Save the Knowledge Graph in `.gexf` format for further exploration.
+
+dataset link- https://drive.google.com/file/d/1ven5STKcGUSnnULqDAg-DK47rBHJj2KJ/view?usp=sharing
+
